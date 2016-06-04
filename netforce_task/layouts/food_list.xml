@@ -1,0 +1,3 @@
+<list model="food">
+    <field name="name"/>
+</list>

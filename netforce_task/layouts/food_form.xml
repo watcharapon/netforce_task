@@ -1,0 +1,3 @@
+<form model="food">
+    <field name="name" size="5"/>
+</form>

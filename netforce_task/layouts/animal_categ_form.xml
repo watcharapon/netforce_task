@@ -1,0 +1,4 @@
+<form model="animal.categ">
+    <field name="name"/>
+    <field name="parent_id"/>
+</form>

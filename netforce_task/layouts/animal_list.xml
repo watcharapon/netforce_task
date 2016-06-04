@@ -1,0 +1,9 @@
+<list model="animal">
+    <head>
+        <button string="Print" icon="print" action="animal_form"/>
+    </head>
+    <field name="name"/>
+    <field name="categ_id"/>
+    <field name="related_id"/>
+    <field name="state"/>
+</list>
