@@ -1,0 +1,4 @@
+<menu>
+    <item string="Board" action="task_board"/>
+    <item string="Tasks" action="my_task"/>
+</menu>

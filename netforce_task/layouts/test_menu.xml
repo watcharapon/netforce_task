@@ -1,9 +1,0 @@
-<menu>
-    <item string="Board" action="test_board"/>
-    <item string="Netforce DB" action="nf_db"/>
-    <item string="Animals" action="animal"/>
-    <item string="Foods" action="food"/>
-    <item string="Settings">
-        <item string="Animal Categories" action="animal_categ"/>
-    </item>
-</menu>

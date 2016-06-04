@@ -1,0 +1,4 @@
+<list model="my.task">
+    <field name="date"/>
+    <field name="number"/>
+</list>

@@ -1,5 +1,5 @@
 <inherit inherit="main_menu">
     <item string="Contacts" position="before">
-        <item string="TEST" action="test_board"/>
+        <item string="Tasks" action="task_board"/>
     </item>
 </inherit>

@@ -1,3 +1,0 @@
-<form model="test.report">
-    <field name="name"/>
-</form>

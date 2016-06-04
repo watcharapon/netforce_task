@@ -1,0 +1,14 @@
+<form model="my.task">
+    <group form_layout="stacked">
+        <field name="number" span="2"/>
+        <field name="date" span="2"/>
+        <field name="lines" nolabel="1">
+            <list>
+                <field name="time_start"/>
+                <field name="time_end"/>
+            </list>
+        </field>
+        <newline/>
+        <field name="description"/>
+    </group>
+</form>

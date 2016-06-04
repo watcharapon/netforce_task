@@ -1,0 +1,6 @@
+<action>
+    <field name="string">Board</field>
+    <field name="view_cls">board</field>
+    <field name="view_xml">task_board</field>
+    <field name="menu">task_menu</field>
+</action>
